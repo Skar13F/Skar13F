@@ -35,7 +35,7 @@ I’m an undergraduate Computer Science student focused on backend development a
 - ✔ Ask me about anything Java/Spring related — I’m always happy to help if I can! 😉  
 - Outside of tech, I enjoy 🎮 video games, 🎧 music, and discovering 📍hidden places around Oaxaca.
 
-- 📫 Reach out to me at: <a href="mailto:oscar.tu.correo@ejemplo.com">oscar.tu.correo@ejemplo.com</a>
+- 📫 Reach out to me at: <a href="mailto:of5162@gmail.com">oscar@gmail.com</a>
 
 __Check out my GitHub repositories:__
 
