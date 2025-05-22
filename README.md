@@ -49,4 +49,44 @@ __Check out my GitHub repositories:__
     </a>
   </p>
 </div>
+## 🛠️ My Skills
+-------------------
+
+### Programming languages:
+&emsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+
+### Backend / API:
+&emsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![REST](https://img.shields.io/badge/-REST-000?&logo=Apigee)
+
+### Databases:
+&emsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### DevOps & Cloud:
+&emsp;
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHub-Actions)
+
+### Tools & Platforms:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ-IDEA)
+
+---
+
+## 📊 Most Used Languages
+
+<img alt="Oscar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skar13F&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
