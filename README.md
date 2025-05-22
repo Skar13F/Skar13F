@@ -19,50 +19,44 @@
   </a>
 </p>
 
+<img align="right" width="250px" alt="Working hard" src="https://c.tenor.com/prtZlWqXstkAAAAd/tenor.gif" />
 
-<img align="right" width=300px alt="Working hard" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+I'm a Computer Science student focused on backend development.  
+I work mainly with **Java, Spring Boot, SQL, RESTful APIs**.  
+Currently learning **microservices**, **Docker**, **Firebase**, and **AWS**.
 
-I’m an undergraduate Computer Science student focused on backend development and building useful tools. I'm comfortable working with Java, Spring Boot, SQL, and Firebase, and I enjoy bringing academic projects to life with real functionality.
+I enjoy 🎮 video games, 🎧 music, and discovering 📍hidden places around Oaxaca.
 
-* **I’m interested in backend systems, API design, and building real-world academic projects.**
-- 🌱 I’m currently learning ...
-  - Microservices with Spring Boot  
-  - Docker  
-  - AWS (basic cloud deployment)
-- 👯 I’m looking to collaborate on open source or academic-based projects.
-- ✔ Ask me about anything Java/Spring related — I’m always happy to help if I can! 😉  
-- Outside of tech, I enjoy 🎮 video games, 🎧 music, and discovering 📍hidden places around Oaxaca.
+📫 Contact: [oscar@gmail.com](mailto:of5162@gmail.com)
 
-- 📫 Reach out to me at: <a href="mailto:of5162@gmail.com">oscar@gmail.com</a>
+---
 
-__Check out my GitHub repositories:__
+## 📌 Projects
 
-<div>
-  <p>
-    <a href="https://github.com/Skar13F/firebase-android">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=firebase-android&theme=default" alt="Firebase Android Project" />
-    </a>
-    <a href="https://github.com/Skar13F/Api-gateway">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=Api-gateway&theme=default" alt="API Gateway Project" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/Skar13F/firebase-android">
+    <img width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=firebase-android&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/Skar13F/Api-gateway">
+    <img width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=Api-gateway&theme=react&hide_border=true" />
+  </a>
+</p>
+
+
 ## 🛠️ My Skills
 -------------------
 
 ### Programming languages:
 &emsp;
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-F7DF1E?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 
 ### Backend / API:
 &emsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![REST](https://img.shields.io/badge/-REST-000?&logo=Apigee)
 
 ### Databases:
@@ -75,7 +69,7 @@ __Check out my GitHub repositories:__
 &emsp;
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&logo=GitHub-Actions)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
 ### Tools & Platforms:
 &emsp;
