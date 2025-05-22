@@ -18,3 +18,35 @@
     <img align="center" alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Skar13F.Skar13F">
   </a>
 </p>
+
+
+<img align="right" width=300px alt="Working hard" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I’m an undergraduate Computer Science student focused on backend development and building useful tools. I'm comfortable working with Java, Spring Boot, SQL, and Firebase, and I enjoy bringing academic projects to life with real functionality.
+
+* **I’m interested in backend systems, API design, and building real-world academic projects.**
+- 🌱 I’m currently learning ...
+  - Microservices with Spring Boot  
+  - Docker  
+  - AWS (basic cloud deployment)
+- 👯 I’m looking to collaborate on open source or academic-based projects.
+- ✔ Ask me about anything Java/Spring related — I’m always happy to help if I can! 😉  
+- Outside of tech, I enjoy 🎮 video games, 🎧 music, and discovering 📍hidden places around Oaxaca.
+
+- 📫 Reach out to me at: <a href="mailto:oscar.tu.correo@ejemplo.com">oscar.tu.correo@ejemplo.com</a>
+
+__Check out my GitHub repositories:__
+
+<div>
+  <p>
+    <a href="https://github.com/Skar13F/firebase-android">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=firebase-android&theme=default" alt="Firebase Android Project" />
+    </a>
+    <a href="https://github.com/Skar13F/Api-gateway">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=Api-gateway&theme=default" alt="API Gateway Project" />
+    </a>
+  </p>
+</div>
+
